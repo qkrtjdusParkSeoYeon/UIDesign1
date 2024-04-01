@@ -7,9 +7,12 @@
 /* adjusting fonts */
 
 body {
-	font-family: -apple-system, BlinkMacSystemFont, helvetica, arial, sans-serif;
+	font-family: helvetica;
 	transition: background 500ms ease;
+	color: lightpink;
+	text-shadow: : blue;
 }
+
 
 p, li {
 	font-size:  22px;
