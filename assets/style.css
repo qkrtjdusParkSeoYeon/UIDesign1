@@ -62,6 +62,13 @@ body {
 
 }
 
+.myname:hover {
+		color:violet;
+		transition: all 500ms ease;
+		text-shadow: 0px 0px 10px lemonchiffon;
+		font-variation-settings: "wght" 500;
+}
+
 .hi {
 	color: lightblue;
 	text-shadow: 0px 0px 10px lightblue;
